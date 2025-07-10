@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Images/HgQuant_Intro.001.jpeg" alt="HgQuant: Modeling Mercury-197 Isomer Decay" width="100%">
+  <img src="Images/HgQuant_Banner.jpeg" alt="HgQuant: Modeling Mercury-197 Isomer Decay" width="100%">
 </p>
 
 
