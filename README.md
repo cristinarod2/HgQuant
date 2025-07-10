@@ -14,9 +14,10 @@ Initial activity of ¹⁹⁷mHg and ¹⁹⁷gHg
 
 Half-lives and decay constants
 
+Activity or activity concentration units
+
 Imaging or measurement time points
 
-Output in absolute activity or percentage
 
 ### Key features include:
 
@@ -25,6 +26,8 @@ Interactive GUI (built with CustomTkinter)
 Timepoint-based decay correction for both phantoms and in vivo experiments
 
 Automatic decay factor calculation
+
+Output in absolute activity or percentage
 
 Tabular outputs, exportable plots, and Excel reports
 
